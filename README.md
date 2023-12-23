@@ -50,6 +50,7 @@ When the correct code is inserted into each cell the output should match the ori
 - [x] Create summary dataframe of totals for top five clients sorted by total profit
 - [x] Format the data to presentation quality
 - [x] Sort data by highest total profit (again?)
+- [x] Don't forget a data analysis summary in markdown
 
 ## Running the Program
 
